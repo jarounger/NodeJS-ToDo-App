@@ -1,0 +1,12 @@
+.bild {
+    background-image: url("../img/todo.png");
+    min-height: 35vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;		    
+}
+
+li {
+    font-size: 1.3rem;
+    background-color: rgba(138, 138, 146, 0.5);
+}
